@@ -5,11 +5,20 @@ Aku disini kasih pembahasan tentang permasalahan tentang velocity pada godot 4.2
 
 dimana Spawn peluru tidak sesuai dengan posisi instancenya
 
-Game play Button: 
+-----------------------------------------------------------------------------------------------
+
+### Game play Button: 
+
 Jalan kanan -> tekan Tombol Arah Kanan
+
 Jalan Kiri -> tekan Tombol Arah Kiri
+
 Lompat -> tekan tombol spasi
+
 Tembak -> Klik Kiri Mouse
+
+---------------------------------------------------------------------------------------------
+
 ### Masalah
 pada Video bawah memperlihatkan peluru tidak tepat posisinya di kotak putih kecil
 
