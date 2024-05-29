@@ -25,6 +25,7 @@ script = SubResource("GDScript_h8mur")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 rotation = 1.5708
 shape = SubResource("CapsuleShape2D_dlocb")
+disabled = true
 
 [node name="ColorRect" type="ColorRect" parent="."]
 offset_left = -48.0
