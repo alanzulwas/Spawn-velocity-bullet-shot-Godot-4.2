@@ -1,5 +1,5 @@
 
-# Masalah Shooter velocity position
+# Masalah Shooter velocity position - REQUIREMENT Editor Godot 4.2
 
 Aku disini kasih pembahasan tentang permasalahan tentang velocity pada godot 4.2
 
