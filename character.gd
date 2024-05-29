@@ -22,7 +22,11 @@ func tembak():
 		print(instance)
 		instance.global_scale = self.global_scale
 		instance.global_position = $PosisiShot.global_position
+		#solusi
 		get_tree().root.add_child(instance)
+
+		#problem
+		add_child(instance)
 
 func hadap():
 	var kanan_temp
