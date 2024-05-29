@@ -37,3 +37,5 @@ Problem :
 Solution:
 
 ![solution](https://github.com/alanzulwas/Spawn-velocity-bullet-shot-Godot-4.2/assets/36232476/4243f20a-d7e4-4df4-b0c7-6d0426e3c56f)
+
+#### KALO MAU LIAT PROBLEM MASALAH CODENYA ADA DI -> Character.gd -> line 26 - 29
