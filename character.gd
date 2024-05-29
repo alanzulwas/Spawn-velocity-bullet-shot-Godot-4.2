@@ -26,7 +26,7 @@ func tembak():
 		get_tree().root.add_child(instance)
 
 		#problem
-		add_child(instance)
+		#add_child(instance)
 
 func hadap():
 	var kanan_temp
