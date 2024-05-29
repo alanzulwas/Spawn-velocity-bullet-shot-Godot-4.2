@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1716947548
+::res://::1716949310
+character.gd::GDScript::-1::1716947679::0::1::::<>CharacterBody2D<>::
+character.tscn::PackedScene::8108039092203427567::1716948950::0::1::::<><>::uid://dcypju3oxyog1::::res://icon.svg
 icon.svg::CompressedTexture2D::7350112725878761486::1716900403::1716900410::1::::<><>::
-::res://Solution/::1716947534
-character.tscn::PackedScene::8108039092203427567::1716947482::0::1::::<><>::uid://dcypju3oxyog1::::res://icon.svg
-map.tscn::PackedScene::783774166790572398::1716947534::0::1::::<><>::uid://ba1ctvpwriksv::::res://Problem/characterPr.tscn
+map.tscn::PackedScene::783774166790572398::1716948950::0::1::::<><>::uid://dnruhppmw2q60::::res://character.tscn
 peluru.gd::GDScript::-1::1716946593::0::1::::<>StaticBody2D<>::
-peluru.tscn::PackedScene::7064964581525384342::1716947205::0::1::::<><>::res://Problem/peluruPr.gd
-character.gd::GDScript::-1::1716947341::0::1::::<>CharacterBody2D<>::
+peluru.tscn::PackedScene::7064964581525384342::1716948950::0::1::::<><>::
+README.md::TextFile::-1::1716948712::0::1::::<><>::
