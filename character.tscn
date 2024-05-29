@@ -28,10 +28,10 @@ func tembak():
 		instance.global_scale = self.global_scale
 		instance.global_position = $PosisiShot.global_position
 		#Solution:
-		#
+		get_tree().root.add_child(instance)
 		
 		#Problem:
-		add_child(instance)
+		#add_child(instance)
 		
 
 func hadap():
