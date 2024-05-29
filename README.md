@@ -31,11 +31,11 @@ tapi di permasalahannya, posisi node berada di posisi character
 
 dari gambar seperti ini :
 
-##### Problem :
+#### Problem :
 
 ![Screenshot 2024-05-29 101454](https://github.com/alanzulwas/Spawn-velocity-bullet-shot-Godot-4.2/assets/36232476/5be7d5bd-73e6-4444-a088-96c6cae3f8ef)
 
-##### Solution:
+#### Solution:
 
 ![solution](https://github.com/alanzulwas/Spawn-velocity-bullet-shot-Godot-4.2/assets/36232476/4243f20a-d7e4-4df4-b0c7-6d0426e3c56f)
 
